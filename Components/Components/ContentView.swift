@@ -10,7 +10,7 @@ struct ContentView: View {
     
     // 1. Define the flashcard content
     let question = "What is the capital of NY?"
-    let answer = "Paris"
+    let answer = "Albany"
     
     // 2. Define the card appearance
     let cardWidth: CGFloat = 300
